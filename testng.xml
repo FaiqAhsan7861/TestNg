@@ -1,0 +1,10 @@
+<suite name = "myReport">
+<test name = "HTMLReport">
+<classes>
+<class name ="oct1.FirstTestNgClass">
+</class>
+<class name ="oct1.MAThoperations">
+</class>
+</classes>
+</test>
+</suite>
